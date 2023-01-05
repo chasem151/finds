@@ -1,5 +1,5 @@
 -- Name: Chase Maivald --
--- BUID: U18719879 --
+-- BUID: --
 -- CS410 - Assignment 1 --
 
 Within the root ./'Assignment 1' directory:
